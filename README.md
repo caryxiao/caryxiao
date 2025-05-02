@@ -1,6 +1,9 @@
 ✅ 后端开发：PHP 专家（Laravel/Yii/Magento），擅长高性能扩展开发（提升团队效率 20%+），精通 RESTful API 与微服务架构。
+
 ✅ 云计算运维：AWS/Aliyun 实战专家，Linux 服务器调优，CI/CD 流水线设计，弹性架构搭建。
+
 ✅ 全栈能力：JavaScript（Vue/React）、MySQL/Redis 优化、RabbitMQ 消息队列，Python 数据爬取与分析。
+
 ✅ 技术前瞻：探索 AI 落地场景，深耕 Rust 语言与系统级性能优化。
 
 近期聚焦
