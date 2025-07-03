@@ -1,4 +1,4 @@
-✅ 后端开发：PHP 专家（Laravel/Yii/Magento），擅长高性能扩展开发（提升团队效率 20%+），精通 RESTful API 与微服务架构。
+✅ 后端开发：Golang, Rust, Solidity, PHP（Laravel/Yii/Magento），擅长高性能扩展开发（提升团队效率 20%+），精通 RESTful API 与微服务架构。
 
 ✅ 云计算运维：AWS/Aliyun 实战专家，Linux 服务器调优，CI/CD 流水线设计，弹性架构搭建。
 
@@ -7,9 +7,7 @@
 ✅ 技术前瞻：探索 AI 落地场景，深耕 Rust 语言与系统级性能优化。
 
 ## 近期聚焦
-🔹 主导基于 PHP + 云原生的 Web/移动应用架构设计
-
-🔹 为欧洲电商品牌构建 Python 数据爬虫系统，驱动业务分析
+🔹 Web3.0, 合约开发, DApp, Solidity
 
 🔹 深入了解和学习 Rust
 
