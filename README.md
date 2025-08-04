@@ -1,6 +1,6 @@
 ✅ 后端开发：Golang, Rust, PHP（Laravel/Yii/Magento），擅长高性能扩展开发（提升团队效率 20%+），精通 RESTful API 与微服务架构。
 
-✅ 区块链: Solidity, hardhat, Foundry
+✅ 区块链: Solidity, Hardhat, Foundry, DeFi, Dex
 
 ✅ 云计算运维：AWS/Aliyun 实战专家，Linux 服务器调优，CI/CD 流水线设计，弹性架构搭建。
 
