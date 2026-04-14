@@ -1,21 +1,26 @@
-✅ 后端开发：Golang, Rust, PHP（Laravel/Yii/Magento），擅长高性能扩展开发（提升团队效率 20%+），精通 RESTful API 与微服务架构。
+✅ Backend Development
 
-✅ 区块链: Solidity, Hardhat, Foundry, DeFi, Dex
+Proficient in Golang, Rust, and PHP (Laravel/Yii/Magento), with strong expertise in high-performance system extensions, improving team efficiency by 20%+. Skilled in designing and implementing RESTful APIs and microservices architectures.
 
-✅ 云计算运维：AWS/Aliyun 实战专家，Linux 服务器调优，CI/CD 流水线设计，弹性架构搭建。
+✅ Blockchain
 
-✅ 全栈能力：JavaScript（Vue/React）、MySQL/Redis 优化、RabbitMQ 消息队列，Python 数据爬取与分析。
+Experienced in Solidity, Hardhat, and Foundry, with solid knowledge of DeFi and DEX ecosystems.
 
-✅ 技术前瞻：探索 AI 落地场景，深耕 Rust 语言与系统级性能优化。
+✅ Cloud & DevOps
 
-## 近期聚焦
+Hands-on expert in AWS and Aliyun, specializing in Linux server optimization, CI/CD pipeline design, and building scalable, elastic architectures.
 
-🔹 深入了解和学习 Rust
+✅ Full-Stack Capabilities
 
-## 联络与兴趣
+Proficient in JavaScript (Vue/React), with strong experience in MySQL/Redis optimization, RabbitMQ-based messaging systems, and Python for data scraping and analysis.
 
-📫 合作联系：289872225@qq.com
+✅ Technical Vision
 
-🎮 生活志趣：篮球 | 游泳 | 主机游戏
+Actively exploring AI application scenarios, with a deep focus on Rust and system-level performance optimization.
 
-⚡ 技术热情：性能优化 | 遗留系统重构 | 探索实用的人工智能应用
+🔍 Current Focus
+Deepening expertise in Rust
+📫 Contact & Interests
+📫 Contact: xcary89@gmail.com
+🎮 Interests: Basketball | Swimming | Console Gaming
+⚡ Passion: Performance Optimization | Legacy System Refactoring | Practical AI Applications
